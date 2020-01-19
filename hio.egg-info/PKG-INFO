@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: hio
+Version: 0.0.1
+Summary: Hardwario Kit Python
+Home-page: https://github.com/pypcgc/cli-tool
+Author: worepix
+Author-email: radim.kozak@hardwario.com
+License: MIT
+Description: # pattern
+        pypcgc package pattern
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Description-Content-Type: text/markdown

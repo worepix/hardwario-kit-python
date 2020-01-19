@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+hardwario-kit-python/__init__.py
+hio.egg-info/PKG-INFO
+hio.egg-info/SOURCES.txt
+hio.egg-info/dependency_links.txt
+hio.egg-info/top_level.txt
